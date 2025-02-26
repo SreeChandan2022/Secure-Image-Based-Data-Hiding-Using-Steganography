@@ -32,7 +32,7 @@ This project allows users to embed a secret message along with a passcode into a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/image-steganography.git
+   git clone https://github.com/SreeChandan2022/image-steganography.git
    cd image-steganography
    ```
 2. Install the required libraries:
