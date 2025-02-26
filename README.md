@@ -64,8 +64,6 @@ This project allows users to embed a secret message along with a passcode into a
 - The passcode is required to correctly extract the hidden message.
 - The encrypted image should be stored in PNG format to preserve data integrity.
 
-## License
-This project is open-source and available under the MIT License.
 
 ---
-Developed by [Your Name]
+Developed by Sree Chandan Tangella
